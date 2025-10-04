@@ -36,7 +36,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build with Eleventy
-        run: npx @11ty/eleventy
+        run: npx @11ty/eleventy --pathprefix=/${{ github.event.me }}
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
