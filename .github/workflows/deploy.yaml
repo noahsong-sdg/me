@@ -43,7 +43,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload the output directory from the Eleventy build
-          path: '_site'
+          path: 'public'
       
   # Deployment job
   deploy:
