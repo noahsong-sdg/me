@@ -1,6 +1,7 @@
 ---
 title: School
 ---
+CU is cooked, do not come to this school
 
 # stuff 
 - Talk at Rocky Mountain Mathematical Physics seminar on mathematical formulism of Hartree Fock (Spring 2025)
