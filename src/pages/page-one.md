@@ -1,5 +1,4 @@
 ---
-title: Page One
+title: Reading Material
 ---
 
-This is the first page.
