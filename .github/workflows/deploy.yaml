@@ -1,4 +1,5 @@
-# Simple workflow for deploying static content to GitHub Pages
+# oneshot by gemini 2.5 LFG
+
 name: Deploy Eleventy Site to Pages
 
 on:
