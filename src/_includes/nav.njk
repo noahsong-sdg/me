@@ -10,7 +10,7 @@
     <li>
       <a 
         {% if currentUrl === page.url %}aria-current="page"{% endif %} 
-        href="{{ page.url }}">
+        href="{{ page.url | url }}">
           {{ page.data.title }}
       </a>
     </li>
