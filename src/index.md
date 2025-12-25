@@ -7,10 +7,10 @@ layout: page.njk
 
 I'm Noah Song. This site is still a WIP.
 
-I'm working on projects in computational chemistry and mega fast [hardware](https://www.greatsky.ai/).
+I'm working on [Archal Labs](https://archal.ai) with Aidan Tiruvan. We got accepted into the YC S2026 batch. 
 
-Less officially I'm learning parallel programming from doing some [GPU puzzles](https://puzzles.modular.com/introduction.html) from Modular and the freely provided [parallel programming homeworks](https://ppc-exercises.cs.aalto.fi/courses) from the University of Helsinki. 
+Sometimes I do other things, like lifting or [reading](https://noahsong-sdg.github.io/me/page-one/) or ragebaiting (D1) or playing cello or having conversations with cool people. 
 
-Sometimes I do other things, like lifting or reading books or ragebaiting (D1) or playing cello or doing homework or having conversations with cool people
+I'm also still very much interested in things like geometric deep learning, infinity categories, and theoretical chemistry. 
 
-Connect w me on anything! I'm on x, li, and discord (theophorus_)
+Connect w me on anything! Please say hi.
