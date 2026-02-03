@@ -3,9 +3,8 @@ title: Reading
 ---
 
 # 2025
-## Books
 
-Highlights:
+Books I liked and recommend:
 - The Brothers Karamazov
 - Perelandra, CS Lewis
 - Skunk Works, Ben Rich
@@ -22,9 +21,10 @@ Liked but don't necessarily recommend:
 - The Hard Thing about Hard Things
 - Soul in a New Machine 
 
-And others I didn't really enjoy. Next year I want to read more non-fiction. For example, I am currently reading Machiavelli's *Discourses on Livy*.
+And others I didn't really enjoy. Next year I want to read more non-fiction
 
-## Other
+
+**Other stuff**
 [Principles of Effective Research - Michael Nielsen](https://michaelnielsen.org/blog/principles-of-effective-research/)
 
 Paul Graham 
